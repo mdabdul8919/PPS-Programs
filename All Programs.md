@@ -4,7 +4,7 @@ Class/Sec   :CE-C
 Roll No.    :1914118
 ```
 # List of programs
-### 1.Addition of integers
+### 1.Addition of two integers
 ### 2.Average of n numbers
 ### 3.Weekdays
 ### 4.Finding Even or Odd
